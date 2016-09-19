@@ -5,5 +5,3 @@ interface Animal {
 	public void travel();
 }
 
-
-

@@ -4,6 +4,7 @@ public class DirList {
 	public static void main(String args[]){
 		if (args.length >=1)
 			showContent(args[0]);
+			System.out.print("Everything runs ok.");
 		else 
 			System.out.print("need 1 arg as dirname");
 	}
